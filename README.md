@@ -1,2 +1,7 @@
 # Snake-in-Java
-Snake em Java feito em meados de 2013.
+
+Snake feito em Java.
+
+Desenvolvi esse joguinho bobo em meados de 2013.
+
+Não encontrei o código fonte.
